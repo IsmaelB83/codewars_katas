@@ -1,0 +1,15 @@
+{
+  "name": "codewars_katas",
+  "version": "1.0.0",
+  "description": "Some katas done in codewars",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "mocha"
+  },
+  "author": "Ismael Bernal (ismaelbernal83@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "mocha": "^7.1.1"
+  }
+}
